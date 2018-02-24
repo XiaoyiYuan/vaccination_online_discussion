@@ -4,5 +4,6 @@ Three percent of the dataset is labeled as pro-vaccine, anti-vaccine, or neutral
 
 These two pretty pictures are from this research as well:
 
-[!alt-text](https://github.com/XiaoyiYuan/vaccination_online_discussion/blob/master/modularity.png)
-[!alt-text](https://github.com/XiaoyiYuan/vaccination_online_discussion/blob/master/stance.png)
+![alt-text](https://github.com/XiaoyiYuan/vaccination_online_discussion/blob/master/modularity.png)
+![alt-text](https://github.com/XiaoyiYuan/vaccination_online_discussion/blob/master/stance.png)
+
