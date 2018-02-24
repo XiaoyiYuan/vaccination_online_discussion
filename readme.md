@@ -5,7 +5,7 @@ Three percent of the dataset is labeled as pro-vaccine, anti-vaccine, or neutral
 These two pretty pictures are from this research as well:
 
 <p align="center">
-  <img src="modularity.png" width="350"/>
-  <img src="stance.png" width="350"/>
+  <img src="modularity.png" width="350" height="350"/>
+  <img src="stance.png" width="350" height="350"/>
 </p>
 
