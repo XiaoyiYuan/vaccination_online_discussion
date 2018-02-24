@@ -6,6 +6,6 @@ These two pretty pictures are from this research as well:
 
 <p align="center">
   <img src="modularity.png" width="350"/>
-  <img src="stance" width="350"/>
+  <img src="stance.png" width="350"/>
 </p>
 
