@@ -9,3 +9,5 @@ These two pretty pictures are from this research as well:
   <img src="stance.png" width="350" height="350"/>
 </p>
 
+How the data was labeled?
+Two people labeled the data with 10 percent overlap. Before labeling, a criteria was established on how to define each labels. While positive and negative is more intuitive, they then agreed on defining neural tweets as those only contain facts, such as news reports or research results. The conflict labels from two annotators were solved by manual checking.
