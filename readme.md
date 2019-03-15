@@ -10,4 +10,4 @@ These two pretty pictures are from this research as well:
 </p>
 
 How the data was labeled?
-Two people labeled the data with 10 percent overlap. Before labeling, a criteria was established on how to define each labels. While positive and negative is more intuitive, they then agreed on defining neural tweets as those only contain facts, such as news reports or research results. The conflict labels from two annotators were solved by manual checking.
+In the labeled dataset we shared here, label "-1" means anti-vaccine sentiment, label "1" refers to pro-vaccine sentiment and "0" is neutral. We noticed that there's barely any truly "neutral" tweets in our dataset, we define neutral as tweets that do not show any leaning to either pro- or anti-vaccine sentiment. Two people labeled the data with 10 percent overlap. Before labeling, a criteria was established on how to define each labels. While positive and negative is more intuitive, they then agreed on defining neural tweets as those only contain facts, such as news reports or research results. The conflict labels from two annotators were solved by manual checking. 
